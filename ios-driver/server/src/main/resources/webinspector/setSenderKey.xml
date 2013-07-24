@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+        "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>__argument</key>
+        <dict>
+            <key>WIRApplicationIdentifierKey</key>
+            <string>$bundleId</string>
+            <key>WIRConnectionIdentifierKey</key>
+            <string>$WIRConnectionIdentifierKey</string>
+            <key>WIRPageIdentifierKey</key>
+            <integer>$WIRPageIdentifierKey</integer>
+            <key>WIRSenderKey</key>
+            <string>$WIRSenderKey</string>
+        </dict>
+        <key>__selector</key>
+        <string>_rpc_forwardSocketSetup:</string>
+    </dict>
+</plist>

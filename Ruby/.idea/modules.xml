@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Educator/Educator.iml" filepath="$PROJECT_DIR$/Educator/Educator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfiniteSkills/InfiniteSkills.iml" filepath="$PROJECT_DIR$/InfiniteSkills/InfiniteSkills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnRubyHardWay/LearnRubyHardWay.iml" filepath="$PROJECT_DIR$/LearnRubyHardWay/LearnRubyHardWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lynda/Lynda.iml" filepath="$PROJECT_DIR$/Lynda/Lynda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pluralsight/Pluralsight.iml" filepath="$PROJECT_DIR$/Pluralsight/Pluralsight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ruby.iml" filepath="$PROJECT_DIR$/Ruby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenium/Selenium.iml" filepath="$PROJECT_DIR$/Selenium/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThePragmaticStudio/ThePragmaticStudio.iml" filepath="$PROJECT_DIR$/ThePragmaticStudio/ThePragmaticStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutPlus/TutPlus.iml" filepath="$PROJECT_DIR$/TutPlus/TutPlus.iml" />
+    </modules>
+  </component>
+</project>
+

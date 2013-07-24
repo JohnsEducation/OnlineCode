@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteOfPython/ByteOfPython.iml" filepath="$PROJECT_DIR$/ByteOfPython/ByteOfPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CBTPython/CBTPython.iml" filepath="$PROJECT_DIR$/CBTPython/CBTPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codecademy/Codecademy.iml" filepath="$PROJECT_DIR$/Codecademy/Codecademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingBat/CodingBat.iml" filepath="$PROJECT_DIR$/CodingBat/CodingBat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coursera/Coursera.iml" filepath="$PROJECT_DIR$/Coursera/Coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Games/Games.iml" filepath="$PROJECT_DIR$/Games/Games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandsOnPython/HandsOnPython.iml" filepath="$PROJECT_DIR$/HandsOnPython/HandsOnPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfiniteSkills/InfiniteSkills.iml" filepath="$PROJECT_DIR$/InfiniteSkills/InfiniteSkills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanAcademy/KhanAcademy.iml" filepath="$PROJECT_DIR$/KhanAcademy/KhanAcademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnPythonHardWay/LearnPythonHardWay.iml" filepath="$PROJECT_DIR$/LearnPythonHardWay/LearnPythonHardWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LyndaPython/LyndaPython.iml" filepath="$PROJECT_DIR$/LyndaPython/LyndaPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Marakana/Marakana.iml" filepath="$PROJECT_DIR$/Marakana/Marakana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programr/Programr.iml" filepath="$PROJECT_DIR$/Programr/Programr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python2/Python2.iml" filepath="$PROJECT_DIR$/Python2/Python2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python3/Python3.iml" filepath="$PROJECT_DIR$/Python3/Python3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PythonForKids/PythonForKids.iml" filepath="$PROJECT_DIR$/PythonForKids/PythonForKids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutPlusPython/TutPlusPython.iml" filepath="$PROJECT_DIR$/TutPlusPython/TutPlusPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udacity/Udacity.iml" filepath="$PROJECT_DIR$/Udacity/Udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebDriver/WebDriver.iml" filepath="$PROJECT_DIR$/WebDriver/WebDriver.iml" />
+    </modules>
+  </component>
+</project>
+

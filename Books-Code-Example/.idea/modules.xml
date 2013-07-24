@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EffectiveJava2/EffectiveJava2.iml" filepath="$PROJECT_DIR$/EffectiveJava2/EffectiveJava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeadFirstDesignPatterns/HeadFirstDesignPatterns.iml" filepath="$PROJECT_DIR$/HeadFirstDesignPatterns/HeadFirstDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeadFirstJava/HeadFirstJava.iml" filepath="$PROJECT_DIR$/HeadFirstJava/HeadFirstJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Books-Codes.iml" filepath="$PROJECT_DIR$/Java-Books-Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaHowToProgram/JavaHowToProgram.iml" filepath="$PROJECT_DIR$/JavaHowToProgram/JavaHowToProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThinkingInJava/ThinkingInJava.iml" filepath="$PROJECT_DIR$/ThinkingInJava/ThinkingInJava.iml" />
+    </modules>
+  </component>
+</project>
+
